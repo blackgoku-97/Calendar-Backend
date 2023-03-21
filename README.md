@@ -12,5 +12,10 @@ Framework:
 express
 
 Librerias:
-nodemon
-dotenv
+nodemon,
+dotenv,
+express-validator,
+cors,
+bcryptjs,
+mongoose,
+jsonwebtoken
