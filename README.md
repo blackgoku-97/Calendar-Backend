@@ -1,6 +1,6 @@
 # Calendar-Backend
 
-Backend de app de calendario en progreso
+Backend de app de calendario (Completada)
 
 Backend
 html
@@ -18,4 +18,5 @@ express-validator,
 cors,
 bcryptjs,
 mongoose,
-jsonwebtoken
+jsonwebtoken,
+moment
